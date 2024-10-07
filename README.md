@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # Vue-JS
 Learning Vue JS from scratch
-=======
+
 # project-1
 
 ## Project setup
