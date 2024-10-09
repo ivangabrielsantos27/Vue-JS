@@ -1,7 +1,4 @@
-# Vue-JS
-Learning Vue JS from scratch
-
-# project-1
+# Simple Todo List App in Vue
 
 ## Project setup
 ```
