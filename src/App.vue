@@ -1,23 +1,27 @@
 <template>
-  <div>
-    <!-- <h2>App.vue</h2> -->
-    <TodoList/>
+  <div id="app">
+    <CalculatorApp/>
   </div>
 </template>
 
 <script>
-import TodoList from './components/TodoList.vue'
+import CalculatorApp from './components/CalculatorApp.vue'
 
 export default {
+  name: 'App',
   components: {
-    TodoList
+    CalculatorApp
   }
-};
+}
 </script>
 
 <style>
-body {
-  background-color: rgb(66, 66, 66);
-  color: aliceblue;
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
 }
 </style>
