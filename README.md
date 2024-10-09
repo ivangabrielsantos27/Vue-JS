@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-# Vue-JS
-Learning Vue JS from scratch
-=======
+# Calculator App in Vue
+
 # project-1
 
 ## Project setup
