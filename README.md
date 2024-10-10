@@ -1,6 +1,3 @@
-# Vue-JS
-Learning Vue JS from scratch
-
 ## Project setup
 ```
 npm install
