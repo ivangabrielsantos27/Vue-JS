@@ -1,23 +1,16 @@
 <template>
-  <div>
-    <!-- <h2>App.vue</h2> -->
-    <TodoList/>
-  </div>
+  <ProductCatalog />
 </template>
 
 <script>
-import TodoList from './components/TodoList.vue'
+import ProductCatalog from "./components/ProductCatalog.vue";
 
 export default {
+  name: "App",
   components: {
-    TodoList
-  }
+    ProductCatalog,
+  },
 };
 </script>
 
-<style>
-body {
-  background-color: rgb(66, 66, 66);
-  color: aliceblue;
-}
-</style>
+<style></style>
